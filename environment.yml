@@ -1,0 +1,16 @@
+name: glacial-lake-monitoring
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - numpy
+  - pandas
+  - geopandas
+  - rasterio
+  - scipy
+  - shapely
+  - pillow
+  - pyproj
+  - pyogrio
+  - gdal
+  - matplotlib
